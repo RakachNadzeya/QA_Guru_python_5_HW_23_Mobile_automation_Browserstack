@@ -160,3 +160,4 @@ cython_debug/
 .idea/
 
 config.personal.env
+allure-results
